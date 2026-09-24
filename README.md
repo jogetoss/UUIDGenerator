@@ -2,6 +2,8 @@
 
 A Joget plugin that provides UUID generation as a form field (**UUID Generator Field**) and a process tool (**UUID Generator Tool**). Supports configurable length, optional dashes, and uppercase output. Includes built-in uniqueness validation by retrying generation if the value already exists in the target form table.
 
+To setup and configure this plugin, please see the [documentation](https://kb.joget.org/jw/web/userview/jdocs/docs/marketplace/uuid-generator).
+
 **UUID Generator Field**
 
 <img width="500" height="348" alt="SCR-20260306-njao" src="https://github.com/user-attachments/assets/0dc177c0-fa76-4061-975b-0d83e474c351" />
